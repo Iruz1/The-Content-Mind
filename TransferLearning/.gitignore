@@ -1,0 +1,13 @@
+
+dataset/
+Dataset/
+
+
+__pycache__/
+*.pyc
+
+
+
+venv/
+env/
+.vscode/
