@@ -55,5 +55,10 @@ Kalau penasaran mau coba di laptop sendiri:
     *(Note: Dataset tidak disertakan di repo ini karena size-nya besar, tapi kodenya siap jalan kalau kamu punya folder `dataset/food` dan `dataset/fashion`)*.
 
 ---
+
+**dataset**
+Food : https://www.kaggle.com/datasets/trolukovich/food11-image-dataset/data
+Fashion : https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full/data
+
 **Dibuat oleh Khairuz Zuhdi**
 Learning Data Science one line of code at a time.
