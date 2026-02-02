@@ -58,6 +58,7 @@ Kalau penasaran mau coba di laptop sendiri:
 
 **dataset**
 Food : https://www.kaggle.com/datasets/trolukovich/food11-image-dataset/data
+
 Fashion : https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full/data
 
 **Dibuat oleh Khairuz Zuhdi**
