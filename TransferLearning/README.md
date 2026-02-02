@@ -62,4 +62,5 @@ Food : https://www.kaggle.com/datasets/trolukovich/food11-image-dataset/data
 Fashion : https://www.kaggle.com/datasets/agrigorev/clothing-dataset-full/data
 
 **Dibuat oleh Khairuz Zuhdi**
+
 Learning Data Science one line of code at a time.
