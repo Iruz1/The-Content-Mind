@@ -27,15 +27,13 @@ Tantangan terbesar projek ini bukan di kodingan, tapi di **Dataset** yang kotor.
 **Hasilnya:**
 Model mengenali foto tersebut sebagai **FOOD** dengan tingkat keyakinan (confidence) **99.8%**.
 
-![Model Prediction Demo](assets/prediction_nasi.png)
-*(Bukti AI mengenali objek dunia nyata, bukan cuma jago kandang di data training)*
+
 
 ## Performance
 Menggunakan 10 Epoch saja, model sudah mencapai konvergensi yang baik.
 * **Training Accuracy:** ~96%
 * **Validation Accuracy:** ~92%
 
-![Training Graph](assets/graph_accuracy.png)
 
 ## Cara Menjalankan (Local)
 Kalau penasaran mau coba di laptop sendiri:
@@ -52,7 +50,7 @@ Kalau penasaran mau coba di laptop sendiri:
     ```bash
     python notebooks/2_transfer_learning.py
     ```
-    *(Note: Dataset tidak disertakan di repo ini karena size-nya besar, tapi kodenya siap jalan kalau kamu punya folder `dataset/food` dan `dataset/fashion`)*.
+    
 
 ---
 
